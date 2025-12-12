@@ -43,7 +43,7 @@ Além da tecnologia, amo ler e jogar videogame 🎮📚.
 ---
 ## 📊 Linguagens mais usadas
 
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnaFernandes005&theme=tokyonight)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnaFernandes005&theme=dark)
 
 
 
