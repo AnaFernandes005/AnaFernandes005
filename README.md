@@ -41,11 +41,11 @@ Além da tecnologia, amo ler e jogar videogame 🎮📚.
 ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-000?&logo=microsoft-azure)
 
 ---
-
 ## 📊 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFernandes005&layout=compact&theme=tokyonight)
 
----
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnaFernandes005&theme=tokyonight)
+
+
 
 ## 📫 Contatos  
 <div>
