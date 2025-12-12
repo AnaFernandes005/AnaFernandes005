@@ -42,12 +42,8 @@ Além da tecnologia, amo ler e jogar videogame 🎮📚.
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AnaFernandes005&show_icons=true&theme=dracula"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFernandes005&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+## 📊 Linguagens mais usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaFernandes005&layout=compact&theme=tokyonight)
 
 ---
 
