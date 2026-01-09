@@ -24,8 +24,7 @@ Além da tecnologia, amo ler e jogar videogame 🎮📚.
 
 ## 🧩 Áreas que mais gosto
 - Desenvolvimento Web  
-- Resolução de problemas  
-- Front-End simples e funcional  
+- Desenvolvimento Front-end
 
 ---
 
