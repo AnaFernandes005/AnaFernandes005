@@ -4,7 +4,7 @@
 Sou estudante de **Tecnologia em Sistemas para Internet** no IFSP – Campus Araraquara.  
 Apaixonada por tecnologia, estou sempre buscando aprender e transformar ideias em soluções reais — principalmente no desenvolvimento web e na lógica de programação.
 
-Tenho experiência com **PHP, JavaScript, HTML, CSS, C, SQL, Bootstrap e JSON**, além de trabalhar com ferramentas como **Postman, DBeaver, FileZilla** e **Microsoft Azure**.
+Tenho experiência com **PHP,Java ,JavaScript, HTML, CSS, C, SQL, Bootstrap e JSON**, além de trabalhar com ferramentas como **Postman, DBeaver, FileZilla** e **Microsoft Azure**.
 
 Durante a graduação participei de projetos marcantes, como:  
 - Uma **iniciação científica** focada no ensino de lógica de programação usando Thunkable  
@@ -29,7 +29,7 @@ Além da tecnologia, amo ler e jogar videogame 🎮📚.
 ---
 
 ## 🛠️ Linguagens e Tecnologias  
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  ![C](https://img.shields.io/badge/-C-000?&logo=C)  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)  ![C](https://img.shields.io/badge/-C-000?&logo=C)  ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=bootstrap)  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
 
 ---
 
